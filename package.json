@@ -1,7 +1,7 @@
 {
   "name": "create-trfl-dapp-template",
   "version": "0.1.0",
-  "description": "",
+  "description": "A Truffle dapp",
   "scripts": {
     "build": "truffle compile",
     "compile": "npm run build",
