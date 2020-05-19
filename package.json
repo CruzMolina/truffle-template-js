@@ -1,0 +1,19 @@
+{
+  "name": "create-trfl-dapp-template",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "build": "truffle compile",
+    "compile": "npm run build",
+    "deploy": "truffle migrate",
+    "start": "ganache-cli"
+  },
+  "keywords": [
+    "truffle"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "ganache-cli": "^6.9.1",
+    "truffle": "^5.1.26"
+  }
+}
